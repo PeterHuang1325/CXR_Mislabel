@@ -1,4 +1,4 @@
-# Robust Federated MRI Segmentation
+# Chest X-Ray Pneumonia classification
 In this repo, we provide an experiment on CXR dataset(Chest X-Ray) with mislabeled data featuring:
 
 - **Pneumonia** binary classification problem
@@ -27,6 +27,4 @@ In this repo, we provide an experiment on CXR dataset(Chest X-Ray) with mislabel
 4. **Output:**
      - ROC curve, confusion matrix, prediction report csv are saved in `outputs/logs/{exp_name}/`.
 
-<div style="width: 60%; height: 60%">
-![CXR](/images/cxr_table.png)
-</div>
+<img src=/images/cxr_table.png width=40% height=40%>
