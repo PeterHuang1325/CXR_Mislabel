@@ -27,4 +27,4 @@ In this repo, we provide an experiment on CXR dataset(Chest X-Ray) with mislabel
 4. **Output:**
      - ROC curve, confusion matrix, prediction report csv are saved in `outputs/logs/{exp_name}/`.
 
-<img src=/images/cxr_table.png width=40% height=40%>
+<img src=/images/cxr_table.png width=60% height=60%>
