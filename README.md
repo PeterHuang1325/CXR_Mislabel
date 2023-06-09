@@ -21,7 +21,6 @@ In this repo, we provide an experiment on CXR dataset(Chest X-Ray) with mislabel
           - Run `python main.py --pretrained`
        - With mislabel data:
           - Run `python main.py --pretrained --mislabel_rate=float(0-1)`
-          - 
 3. **Run experiments (testing):**
      - Run `python inference.py`.
 4. **Output:**
