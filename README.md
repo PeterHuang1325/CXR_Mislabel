@@ -26,4 +26,4 @@ In this repo, we provide an experiment on CXR dataset(Chest X-Ray) with mislabel
      - Run `python inference.py`.
 4. **Output:**
      - ROC curve, confusion matrix, prediction report csv are saved in `outputs/logs/{exp_name}/`.
-![CXR](/images/cxr_table.png | width='100')
+![CXR](/images/cxr_table.png)
